@@ -63,5 +63,13 @@
 * ☕ **爱发电主页**：[afdian.com/a/trotsky1111](https://afdian.com/a/trotsky1111)
 * 🌐 **项目官网**：[xiavoiceagent.com](https://xiavoiceagent.com)
 * 🐙 **GitHub**：[@zhangxiaoyu66666](https://github.com/zhangxiaoyu66666)
+媒体报道
+
+央视新闻客户端 / 中青在线转载报道：https://m.cyol.com/gb/articles/2022-06/08/content_G0MNOhzx7.html
+（CCTV2022年高考朝闻天下报道）
+
+CCTV-10 科教频道专题视频：https://tv.cctv.com/2013/09/27/VIDE1380242180567779.shtml
 
 每一个 Star、每一次使用反馈、每一份赞助，都是支撑我继续敲下下一行代码的底气。谢谢大家！
+
+
