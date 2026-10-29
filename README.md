@@ -59,4 +59,4 @@
 ## 联系我
 
 - GitHub: https://github.com/zhangxiaoyu66666
-- 啊拼 / AI Quick Prompt: https://github.com/zhangxiaoyu66666/aping-AI-Quick-Prompt
+- 爱发电主页：https://afdian.com/a/trotsky1111
